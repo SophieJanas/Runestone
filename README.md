@@ -16,7 +16,7 @@
 	* Right-click on the node. Select **Change Coordinates**. Now you can select your preferred location for the node in the pop-up window.
 5. **How to change the color of nodes**
 	* All nodes:
-		Click on **BioNetVisualizer**. Select ** Options**.  Now you can select your preferred color choices for species and reactions in the pop-up window. 
+		Click on **BioNetVisualizer**. Select **Options**.  Now you can select your preferred color choices for species and reactions in the pop-up window. 
 	* Individual nodes:
 		Right-click on the node. Select **More Colors**. Now you can select your preferred color choice for the node in the pop-up window.
 6. **How to undo the changes to a node**
