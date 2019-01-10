@@ -1,3 +1,4 @@
+
 # Welcome to BioNetVisualizer!
 **BioNetVisualizer** is a program which draws your sbml-files. It also lets you reorganize the nodes and read out additional information.
 
@@ -20,7 +21,7 @@
 		Right-click on the node. Select **More Colors**. Now you can select your preferred color choice for the node in the pop-up window.
 6. **How to undo the changes to a node**
 	* for changes made to all nodes (color only):
-		Click on **BioNetVisualizer**. Select ** Options**.  Now you can select **Reset colors** in the pop-up window.
+		Click on **BioNetVisualizer**. Select **Options**.  Now you can select **Reset colors** in the pop-up window.
 	* for changes made to an individual node (color and new location):
 		Right-click on the node. Select **Reset**.
 7.  **How to make nodes without layout information visible**
