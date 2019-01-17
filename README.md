@@ -30,7 +30,7 @@
 
 10/10 runestone, would visit again.
 
-![arrow]((sophiejanas.github.com/Runestone/img/bild.jpg)
+![arrow](sophiejanas.github.com/Runestone/img/bild.jpg)
 
 
 
