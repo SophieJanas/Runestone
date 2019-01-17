@@ -31,7 +31,6 @@
 10/10 runestone, would visit again.
 
 ![arrow]((SophieJanas.github.com/Runestone/img/bild.jpg))
-<img src="img/bild.png" alt="bild" class="inline"/>
 
 
 
